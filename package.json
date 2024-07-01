@@ -1,0 +1,23 @@
+{
+  "name": "be.romualdreynaud.toolboxunity",
+  "displayName": "ToolboxUnity",
+  "version": "0.0.1",
+  "unity": "2022.3",
+  "unityRelease": "",
+  "description": "Tools to work with unity",
+  "keywords": [ "Script", "Tool" ],
+  "relatedPackages": {},
+  "samples": [],
+  "author": {
+    "name": "Romuald Reynaud",
+    "mail": "",
+    "url": "https://github.com/SpardTechs"
+  },
+  "repository": {
+    "type": "Git",
+    "url": "",
+    "footprint": "",
+    "revision": ""
+  },
+  "category": "Script"
+} 
